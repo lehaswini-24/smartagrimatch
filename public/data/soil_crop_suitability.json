@@ -1,0 +1,9 @@
+  {
+    "Red Soil": ["Groundnut", "Brinjal", "Tomatoes"],
+    "Black Soil": ["Rice", "Cotton"],
+    "Sandy Loam": ["Groundnut", "Vegetables"],
+    "Clayey Soil": ["Rice", "Sugarcane"],
+    "Clay Loam": ["Rice", "Maize"],
+    "Laterite": ["Tomatoes", "Brinjal"]
+  }
+  

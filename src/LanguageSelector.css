@@ -1,0 +1,36 @@
+/* Ensure full-screen centering */
+.language-selector-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    background: white;
+    text-align: center;
+  }
+  
+  /* Style the heading */
+  .app-header {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the dropdown */
+  .language-selector {
+    width: 250px;
+    font-size: 1.2rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  /* Ensure dropdown text is aligned */
+  .language-selector option {
+    text-align: center;
+  }
+  
